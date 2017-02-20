@@ -1,3 +1,6 @@
 # cs3240-labdemo
  
-Creating a conflict up in here
+Just a tiny baby snake. 
+Why would anyone want to eat me?
+Low-key starving baby snake.
+
